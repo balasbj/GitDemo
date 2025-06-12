@@ -24,7 +24,7 @@ public class StringComparison {
 				index++;
 			}
 			
-			
+			//just adding comment
 			result.append(currentChar).append(count);
 			
 
